@@ -1,17 +1,22 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=426x240
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://eg.kora-live-live.com/
 https://cdvzm.yallashoooootlive.online/hls/bein6/tracks-v1a1/mono.ts.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://eg.kora-live-live.com/
 https://cdvzm.yallashoooootlive.online/hls/bein6/tracks-v1a1/mono.ts.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://eg.kora-live-live.com/
 https://cdvzm.yallashoooootlive.online/hls/bein6/tracks-v1a1/mono.ts.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://eg.kora-live-live.com/
 https://cdvzm.yallashoooootlive.online/hls/bein6/tracks-v1a1/mono.ts.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://eg.kora-live-live.com/
 https://cdvzm.yallashoooootlive.online/hls/bein6/tracks-v1a1/mono.ts.m3u8
